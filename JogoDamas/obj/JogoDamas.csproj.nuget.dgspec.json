@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zygui\\source\\repos\\JogoDamas\\JogoDamas.csproj": {}
+    "C:\\Users\\Zygui\\source\\repos\\ProjetoLongoPrazo1-Jogo-de-Damas\\JogoDamas\\JogoDamas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zygui\\source\\repos\\JogoDamas\\JogoDamas.csproj": {
+    "C:\\Users\\Zygui\\source\\repos\\ProjetoLongoPrazo1-Jogo-de-Damas\\JogoDamas\\JogoDamas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zygui\\source\\repos\\JogoDamas\\JogoDamas.csproj",
+        "projectUniqueName": "C:\\Users\\Zygui\\source\\repos\\ProjetoLongoPrazo1-Jogo-de-Damas\\JogoDamas\\JogoDamas.csproj",
         "projectName": "JogoDamas",
-        "projectPath": "C:\\Users\\Zygui\\source\\repos\\JogoDamas\\JogoDamas.csproj",
+        "projectPath": "C:\\Users\\Zygui\\source\\repos\\ProjetoLongoPrazo1-Jogo-de-Damas\\JogoDamas\\JogoDamas.csproj",
         "packagesPath": "C:\\Users\\Zygui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zygui\\source\\repos\\JogoDamas\\obj\\",
+        "outputPath": "C:\\Users\\Zygui\\source\\repos\\ProjetoLongoPrazo1-Jogo-de-Damas\\JogoDamas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
